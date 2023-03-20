@@ -1,2 +1,3 @@
 # trasindo-backend-test-laravel
- Ini merupakan repo saya untuk test backend developer di pt trasindo data perkasa.
+
+<h1>untuk dokumentasi foto dan video bisa dilihat di folder #DOKUMENTASI MOHON DILIHAT</h1>
