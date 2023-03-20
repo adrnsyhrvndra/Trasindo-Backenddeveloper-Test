@@ -1,0 +1,2 @@
+
+1) Import Db file sql yang bernama db_test_trasindo.sql
